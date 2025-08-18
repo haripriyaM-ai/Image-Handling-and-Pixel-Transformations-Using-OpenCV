@@ -218,11 +218,74 @@ plt.show()
 ```
 
 ## Output:
-- **i)** Read and Display an Image.
--   
-- **ii)** Adjust Image Brightness.  
-- **iii)** Modify Image Contrast.  
-- **iv)** Generate Third Image Using Bitwise Operations.
+- ### *i)* Read and Display an Image.  
+   1.Read 'Eagle_in_Flight.jpg' as grayscale and displayed:
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/915352d7-581e-44e3-bf0a-4c19a652ba14" />
+
+
+  2.Saved image as PNG and displayed:
+
+<img width="500" height="500" alt="Screenshot 2025-08-18 132010" src="https://github.com/user-attachments/assets/3decd305-bbee-4cff-af74-726740a6e15c" />
+
+
+  3.Cropped image:
+
+<img width="300" height="500" alt="Screenshot 2025-08-18 132040" src="https://github.com/user-attachments/assets/71d2a292-ea89-46bb-b0af-d1e3afab587b" />
+
+
+  4.Resized and flipped Horizontally:
+  
+<img width="300" height="500" alt="Screenshot 2025-08-18 132055" src="https://github.com/user-attachments/assets/635cf1d1-db99-44f8-a1b0-342c0aff7692" />
+
+
+  5.Read 'Apollo-11-launch.jpg' and  Displayed:
+
+<img width="600" height="400" alt="Screenshot 2025-08-18 132107" src="https://github.com/user-attachments/assets/db89d0f9-3dcb-4e67-bc9f-d216e46ffa22" />
+
+6.Displayed the final annotated image:
+
+<img width="600" height="400" alt="Screenshot 2025-08-18 132136" src="https://github.com/user-attachments/assets/a2cd966f-fe4c-482e-a1f2-c128c6974a0b" />
+
+
+- ### *ii)* Adjust Image Brightness.
+
+1.Created brighter and darker images and displayed:
+
+<img width="600" height="200" alt="Screenshot 2025-08-18 132149" src="https://github.com/user-attachments/assets/83c30aff-55d2-496a-a9c4-48bd058c740f" />
+
+
+
+
+- ### *iii)* Modify Image Contrast.  
+1. Modified the contrast using scaling factors 1.1 and 1.2:
+
+<img width="600" height="200" alt="Screenshot 2025-08-18 132205" src="https://github.com/user-attachments/assets/cdcfe9d0-4675-47b7-91ec-1b26ba084952" />
+
+
+
+
+- ### *iv)* Generate Third Image Using Bitwise Operations.
+
+1.Splitted 'Boy.jpg' into B, G, R components and displayed:
+
+<img width="600" height="200" alt="Screenshot 2025-08-18 132219" src="https://github.com/user-attachments/assets/5dfecf72-4ef4-4514-9a00-4be110a7b67f" />
+
+
+2.Merged the R, G, B channels and displayed:
+
+<img width="300" height="300" alt="Screenshot 2025-08-18 132231" src="https://github.com/user-attachments/assets/f38ce848-3fad-4c57-a508-a8e1f7e54fa8" />
+
+
+3.Splitted the image into H, S, V components and displayed:
+
+<img width="600" height="200" alt="Screenshot 2025-08-18 132239" src="https://github.com/user-attachments/assets/d37c8a0b-8b0f-4592-9624-3cfcfc57b30e" />
+
+
+
+4.Merged the H, S, V channels and displayed:
+
+<img width="500" height="200" alt="Screenshot 2025-08-18 132251" src="https://github.com/user-attachments/assets/277152ca-ce5f-4ea1-ad16-02b353053896" />
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
