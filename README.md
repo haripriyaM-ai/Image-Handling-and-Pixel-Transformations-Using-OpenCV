@@ -129,6 +129,11 @@ plt.imshow(img_rgb)
 plt.show()
 ```
 
+Developed By:
+- **Name:** HARI PRIYA M  
+- **Register Number:** 212224240047
+
+
 #### 14. Read the image ('Boy.jpg').
 ```python
 img =cv2.imread('boy.jpg',cv2.IMREAD_COLOR)
@@ -216,6 +221,11 @@ plt.title("Original Image  &  Merged HSV Image")
 plt.axis("off")
 plt.show()
 ```
+
+Developed By:
+- **Name:** HARI PRIYA M  
+- **Register Number:** 212224240047
+
 
 ## Output:
 - ### *i)* Read and Display an Image.  
