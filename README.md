@@ -1,4 +1,4 @@
-# Image-Handling-and-Pixel-Transformations-Using-OpenCV 
+# EXP 01 : Image-Handling-and-Pixel-Transformations-Using-OpenCV 
 
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
